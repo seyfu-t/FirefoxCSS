@@ -1,4 +1,8 @@
-# FirefoxCSS by KingSeyfo (based on parts of someone else's design, I can't find him anymore so can't reference him)
+# FirefoxCSS by KingSeyfo 
+(based on parts of someone else's design, I can't find him anymore so can't reference him)
+![showcase](https://github.com/KingSeyfo/FirefoxCSS/assets/63481525/5b5623b7-9a94-4e1b-b608-f86b2c8bc9a4)
+
+
 ## Prerequisites
 
 Verify that the user **stylesheets (userChrome)** option is enabled:
