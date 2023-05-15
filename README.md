@@ -1,5 +1,4 @@
-# FirefoxCSS
-My personal FirefoxCSS
+# FirefoxCSS by KingSeyfo (based on parts of someone else's design, I can't find him anymore so can't reference him)
 ## Prerequisites
 
 Verify that the user **stylesheets (userChrome)** option is enabled:
